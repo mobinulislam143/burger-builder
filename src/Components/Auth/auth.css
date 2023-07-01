@@ -1,0 +1,8 @@
+.errors {
+    text-align: left;
+    padding-left: 13px;
+    margin: -4px 0px;
+  }
+  .errors span {
+    text-shadow: 2px 2px 7px #ffcb01;
+  }

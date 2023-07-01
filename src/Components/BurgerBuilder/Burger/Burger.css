@@ -1,0 +1,10 @@
+.Burger{
+    width: 100%;
+    margin: auto;
+    font-weight: bold;
+    font-size: 1.2rem;
+
+}
+.Burger::--webkit-scrollbar{
+    display: none;
+}
