@@ -68,7 +68,6 @@ class Auth extends Component{
             errors.passwordConfirm = 'Passwords do not match';
           }
         }
-        // Validate confirm password
     
         this.setState({ errors });
     
